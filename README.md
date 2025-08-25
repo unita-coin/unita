@@ -2,7 +2,13 @@
 
 ![UNITA Logo](./branding/unitacoin.jpg)
 
-$UNITA is a **BEP-20 community-driven digital utility token** for UNITA supporters worldwide. Designed to enable secure peer-to-peer transactions, staking rewards, LP incentives, and token-weighted governance, $UNITA fosters community engagement, value creation, and long-term sustainability. For full technical details and token mechanics, see the [WHITEPAPER](./WHITEPAPER.md).
+[![Version](https://img.shields.io/badge/version-1.0.0-blue)](./CHANGELOG.md)
+[![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE.md)
+[![Build](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/username/unitacoin/actions) <!-- Optional CI badge -->
+
+**Quick Links:** [WHITEPAPER](./WHITEPAPER.md) | [ROADMAP](./ROADMAP.md) | [BRANDING](./BRANDING.md) | [ANGOLA.md](./ANGOLA.md) | [CHANGELOG](./CHANGELOG.md)
+
+UNITACoin ($UNITA) is a **BEP-20 community-driven digital utility token** for UNITA supporters worldwide. Designed to enable secure peer-to-peer transactions, staking rewards, LP incentives, and token-weighted governance, $UNITA fosters community engagement, value creation, and long-term sustainability. For full technical details and token mechanics, see the [WHITEPAPER](./WHITEPAPER.md).
 
 ----------
 
@@ -88,6 +94,7 @@ $UNITA is a **community-driven utility token** and is **not endorsed or affiliat
 -   `AUDIT.me` – Certik-style audit analysis.
 -   `ROADMAP.md` – Project roadmap.
 -   `BRANDING.md` – Logo, color palette, typography, and visual identity guidelines.
+-   `CHANGELOG.md` – Documenting version 1.0.0 release.
 -   `.github/workflows/` – CI/CD workflows (linting, tests).
 -   `README.md` – Project overview (this file).
 -   `CONTRIBUTING.md` – Guidelines for contributing.
@@ -105,5 +112,5 @@ We welcome contributions from the community. Please follow the [CONTRIBUTING.md]
 
 ## 📬 Contact
 
-For inquiries and community support: [contact@unitacoin.com](mailto:contact@unitacoin.com)  
-Website: [https://unitacoin.com](https://unitacoin.com)
+For inquiries and community support: [support@unitacoin.io](mailto:support@unitacoin.io)  
+Website: [https://unitacoin.io](https://unitacoin.io)
