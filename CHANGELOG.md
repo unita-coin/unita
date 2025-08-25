@@ -5,6 +5,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 
 ---
 
+## [1.0.1] - 2025-08-25
+### Updated
+- Polished README.md for improved public release:
+  - Added version, license, and build badges.
+  - Added Quick Links to WHITEPAPER, ROADMAP, BRANDING, ANGOLA.md, and CHANGELOG.
+  - Retained all previous content including Features, Tokenomics, Branding, Roadmap, Angola context, Disclaimer, Repository Structure, Contributing, and Contact.
+
+---
+
 ## [1.0.0] - 2025-08-25
 ### Added
 - Developed and deployed the $UNITA BEP-20 utility token smart contract (`UNITACoin.sol`).
