@@ -1,6 +1,6 @@
 # $UNITA (UNITACoin)
 
-![UNITA Logo](link-to-logo.png)
+![UNITA Logo](./branding/unitacoin.jpg)
 
 $UNITA is a **BEP-20 community-driven digital utility token** for UNITA supporters worldwide. Designed to enable secure peer-to-peer transactions, staking rewards, LP incentives, and token-weighted governance, $UNITA fosters community engagement, value creation, and long-term sustainability.
 
