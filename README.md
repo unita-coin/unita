@@ -2,7 +2,7 @@
 
 ![UNITA Logo](./branding/unitacoin.jpg)
 
-$UNITA is a **BEP-20 community-driven digital utility token** for UNITA supporters worldwide. Designed to enable secure peer-to-peer transactions, staking rewards, LP incentives, and token-weighted governance, $UNITA fosters community engagement, value creation, and long-term sustainability.
+$UNITA is a **BEP-20 community-driven digital utility token** for UNITA supporters worldwide. Designed to enable secure peer-to-peer transactions, staking rewards, LP incentives, and token-weighted governance, $UNITA fosters community engagement, value creation, and long-term sustainability. For full technical details and token mechanics, see the [WHITEPAPER](./WHITEPAPER.md).
 
 ----------
 
@@ -29,7 +29,24 @@ $UNITA is a **BEP-20 community-driven digital utility token** for UNITA supporte
 | Partnership / Collaboration  | 10%       |
 | Liquidity Pool / Exchange    | 10%       |
 
----
+----------
+
+## 🎨 Branding
+
+-   **Official Token Image:** ![UNITACoin Token](./branding/unitacoin.jpg)  
+-   **Guidelines:** Refer to [BRANDING.md](./BRANDING.md) for full logo usage, color palette, typography, and visual identity standards.
+
+### Logo Usage Examples
+
+**✅ Do:**
+- Keep the logo in original colors.  
+- Maintain clear space around the logo.  
+- Use on clean, high-contrast backgrounds.
+
+**❌ Don’t:**
+- Stretch, rotate, or distort the logo.  
+- Change colors outside the official palette.  
+- Place over busy backgrounds that reduce readability.
 
 ----------
 
@@ -66,9 +83,11 @@ $UNITA is a **community-driven utility token** and is **not endorsed or affiliat
 ## 🔧 Repository Structure
 
 -   `UNITACoin.sol` – Smart contract implementation.
+-   `WHITEPAPER.md` – Detailed technical whitepaper for $UNITA.
 -   `ANGOLA.md` – Detailed economic context and $UNITA use case in Angola.
 -   `AUDIT.me` – Certik-style audit analysis.
 -   `ROADMAP.md` – Project roadmap.
+-   `BRANDING.md` – Logo, color palette, typography, and visual identity guidelines.
 -   `.github/workflows/` – CI/CD workflows (linting, tests).
 -   `README.md` – Project overview (this file).
 -   `CONTRIBUTING.md` – Guidelines for contributing.
