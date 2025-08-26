@@ -2,11 +2,9 @@
 
 ![UNITA Logo](./branding/unitacoin.jpg)
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue)](./CHANGELOG.md)
-[![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE.md)
-[![Build](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/username/unitacoin/actions) <!-- Optional CI badge -->
+[![Version](https://img.shields.io/badge/version-1.0.0-blue)](./CHANGELOG.md) [![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE.md) [![Build](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/username/unitacoin/actions)
 
-**Quick Links:** [WHITEPAPER](./WHITEPAPER.md) | [ROADMAP](./ROADMAP.md) | [BRANDING](./BRANDING.md) | [ANGOLA.md](./ANGOLA.md) | [CHANGELOG](./CHANGELOG.md)
+**Quick Links:** [WHITEPAPER](./WHITEPAPER.md) | [MARKET ANALYSIS ](./MARKET_ANALYSIS.md) | [ROADMAP](./ROADMAP.md) | [BRANDING](./BRANDING.md) | [ANGOLA.md](./ANGOLA.md) | [CHANGELOG](./CHANGELOG.md)
 
 UNITACoin ($UNITA) is a **BEP-20 community-driven digital utility token** for UNITA supporters worldwide. Designed to enable secure peer-to-peer transactions, staking rewards, LP incentives, and token-weighted governance, $UNITA fosters community engagement, value creation, and long-term sustainability. For full technical details and token mechanics, see the [WHITEPAPER](./WHITEPAPER.md).
 
@@ -39,20 +37,22 @@ UNITACoin ($UNITA) is a **BEP-20 community-driven digital utility token** for UN
 
 ## 🎨 Branding
 
--   **Official Token Image:** ![UNITACoin Token](./branding/unitacoin.jpg)  
+-   **Official Token Image:** ![UNITACoin Token](./branding/unitacoin.jpg)
 -   **Guidelines:** Refer to [BRANDING.md](./BRANDING.md) for full logo usage, color palette, typography, and visual identity standards.
 
 ### Logo Usage Examples
 
 **✅ Do:**
-- Keep the logo in original colors.  
-- Maintain clear space around the logo.  
-- Use on clean, high-contrast backgrounds.
+
+-   Keep the logo in original colors.
+-   Maintain clear space around the logo.
+-   Use on clean, high-contrast backgrounds.
 
 **❌ Don’t:**
-- Stretch, rotate, or distort the logo.  
-- Change colors outside the official palette.  
-- Place over busy backgrounds that reduce readability.
+
+-   Stretch, rotate, or distort the logo.
+-   Change colors outside the official palette.
+-   Place over busy backgrounds that reduce readability.
 
 ----------
 
@@ -78,6 +78,8 @@ $UNITA can play a transformative role in Angola:
 
 For full details, see [ANGOLA.md](./ANGOLA.md).
 
+**Additional Market Analysis:** A detailed review of adoption potential, youth demographics, competitor landscape, regulatory context, technology access, behavioral insights, and projected economic benefits for $UNITA in Angola is available in [MARKET_ANALYSIS.md](./MARKET_ANALYSIS.md).
+
 ----------
 
 ## 📄 Disclaimer
@@ -91,6 +93,7 @@ $UNITA is a **community-driven utility token** and is **not endorsed or affiliat
 -   `UNITACoin.sol` – Smart contract implementation.
 -   `WHITEPAPER.md` – Detailed technical whitepaper for $UNITA.
 -   `ANGOLA.md` – Detailed economic context and $UNITA use case in Angola.
+-   `MARKET_ANALYSIS.md` – Comprehensive market analysis and adoption strategy.
 -   `AUDIT.me` – Certik-style audit analysis.
 -   `ROADMAP.md` – Project roadmap.
 -   `BRANDING.md` – Logo, color palette, typography, and visual identity guidelines.
