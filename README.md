@@ -4,7 +4,7 @@
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue)](./CHANGELOG.md) [![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE.md) [![Build](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/username/unitacoin/actions)
 
-**Quick Links:** [WHITEPAPER](./WHITEPAPER.md) | [MARKET ANALYSIS ](./MARKET_ANALYSIS.md) | [ROADMAP](./ROADMAP.md) | [BRANDING](./BRANDING.md) | [ANGOLA.md](./ANGOLA.md) | [CHANGELOG](./CHANGELOG.md)
+**Quick Links:** [WHITEPAPER](./WHITEPAPER.md) | [MARKET ANALYSIS](./MARKET_ANALYSIS.md) | [ROADMAP](./ROADMAP.md) | [BRANDING](./BRANDING.md) | [ANGOLA](./ANGOLA.md) | [POLITICAL](./POLITICAL.md) | [CHANGELOG](./CHANGELOG.md)
 
 UNITACoin ($UNITA) is a **BEP-20 community-driven digital utility token** for UNITA supporters worldwide. Designed to enable secure peer-to-peer transactions, staking rewards, LP incentives, and token-weighted governance, $UNITA fosters community engagement, value creation, and long-term sustainability. For full technical details and token mechanics, see the [WHITEPAPER](./WHITEPAPER.md).
 
@@ -80,11 +80,13 @@ For full details, see [ANGOLA.md](./ANGOLA.md).
 
 **Additional Market Analysis:** A detailed review of adoption potential, youth demographics, competitor landscape, regulatory context, technology access, behavioral insights, and projected economic benefits for $UNITA in Angola is available in [MARKET_ANALYSIS.md](./MARKET_ANALYSIS.md).
 
+**Political Context:** Given the historical and political significance of the name UNITA, it is important to clarify that $UNITA is **not affiliated with, endorsed by, or sanctioned by the political party UNITA in Angola**. A deeper exploration of political sensitivities and community trust considerations is documented in [POLITICAL.md](./POLITICAL.md).
+
 ----------
 
 ## 📄 Disclaimer
 
-$UNITA is a **community-driven utility token** and is **not endorsed or affiliated with the political party UNITA in Angola**. $UNITA is intended for digital transactions, staking, and community governance purposes only.
+$UNITA is a **community-driven utility token** and is **not endorsed or affiliated with the political party UNITA in Angola**. $UNITA is intended for digital transactions, staking, and community governance purposes only. See [POLITICAL.md](./POLITICAL.md) for full clarification.
 
 ----------
 
@@ -94,6 +96,7 @@ $UNITA is a **community-driven utility token** and is **not endorsed or affiliat
 -   `WHITEPAPER.md` – Detailed technical whitepaper for $UNITA.
 -   `ANGOLA.md` – Detailed economic context and $UNITA use case in Angola.
 -   `MARKET_ANALYSIS.md` – Comprehensive market analysis and adoption strategy.
+-   `POLITICAL.md` – Political context, historical sensitivity, and disclaimer.
 -   `AUDIT.me` – Certik-style audit analysis.
 -   `ROADMAP.md` – Project roadmap.
 -   `BRANDING.md` – Logo, color palette, typography, and visual identity guidelines.
