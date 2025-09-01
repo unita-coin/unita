@@ -86,7 +86,7 @@ For full details, see [ANGOLA.md](./ANGOLA.md).
 
 ## 📄 Disclaimer
 
-Created by Manuala Lopes in Luanda, Angola, $UNITA is a **community-driven utility token** and is **not endorsed or affiliated with the political party UNITA in Angola**. $UNITA is intended for digital transactions, staking, and community governance purposes only. See [POLITICAL.md](./POLITICAL.md) for full clarification.
+Created by Manuela Lopes in Luanda, Angola, $UNITA is a **community-driven utility token** and is **not endorsed or affiliated with the political party UNITA in Angola**. $UNITA is intended for digital transactions, staking, and community governance purposes only. See [POLITICAL.md](./POLITICAL.md) for full clarification.
 
 ----------
 
